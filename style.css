@@ -146,3 +146,28 @@ nav{
     line-height: 24px;
     color: #70747a;
 }
+
+/* pricing */
+
+.pricing-container{
+    padding-bottom: 5em;
+    text-align: center;
+}
+
+.pricing-container h1{
+    font-size: 36px;
+    margin-top: 0;
+}
+
+.pricing-container p{
+    font-size: 20px;
+}
+
+.plans-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 90%;
+    position: relative;
+    margin-left: auto;
+}
